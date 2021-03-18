@@ -12,8 +12,8 @@
 3. QR코드 스캔 : html_QRScan
 
 ### 210317 Day3. 
-1. 배포용 송금 서비스 구축 : [re_node_html](https://github.com/vo0a/node_web)
-2. 웹 디자인 적용 : [node_html](https://github.com/vo0a/dappweb)
+1. 배포용 송금 서비스 구축 : [node_dapp](https://github.com/vo0a/node_dapp)
+2. 웹 디자인 적용 : [node_dapp_web](https://github.com/vo0a/node_dapp_web)
 
 ### 210318 Day4.
 1. 이더리움 스마트 컨트랙트 실습(Solidity): Ethereum
